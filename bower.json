@@ -1,14 +1,11 @@
 {
   "name": "ngECharts",
   "homepage": "https://github.com/gudh/ngECharts",
-  "main": [
-    "./dist/ngecharts.js"
-  ],
+  "main": "./dist/ngecharts.js",
   "authors": [
     "gudh"
   ],
   "description": "using ECharts with Angular.js",
-  "main": "",
   "moduleType": [],
   "keywords": [
     "angular",
