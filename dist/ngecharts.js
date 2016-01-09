@@ -1,3 +1,8 @@
+/**
+ * https://github.com/gudh/ngecharts
+ * License: MIT
+ */
+
 (function () {
     'use strict';
 
