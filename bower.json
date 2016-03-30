@@ -1,5 +1,6 @@
 {
   "name": "ngECharts",
+  "version": "0.1.2",
   "homepage": "https://github.com/gudh/ngECharts",
   "main": "./dist/ngecharts.js",
   "authors": [
