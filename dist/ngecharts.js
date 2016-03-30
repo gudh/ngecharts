@@ -28,7 +28,7 @@
             function createChart(options) {
                 if (!options) return;
 
-                chart.setOption(options); 
+                chart.setOption(options,true); 
                 // scope.$emit('create', chart);
 
                 angular.element($window).bind('resize', function(){
@@ -40,7 +40,7 @@
             scope.$watch('options', function (newVal, oldVal) {
                 if (angular.equals(newVal, oldVal)) return;
                 createChart(newVal);
-            })
+            },true)
 
             
         };
