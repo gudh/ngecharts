@@ -22,7 +22,6 @@
     "tests"
   ],
   "devDependencies": {
-    "echarts": "~2.x",
     "angular": "~1.x"
   }
 }

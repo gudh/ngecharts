@@ -6,7 +6,7 @@ ngECharts - A simple AngularJS directive for beautiful responsive [ECharts](http
 **Requirement**:
 
 * AngularJS 1.x
-* ECharts 2.x
+* ECharts 2.x & 3.x
 
 ## Why ECharts?
 It's one of the most powerful and beautiful charts on the Internet ( [See examples](http://echarts.baidu.com/doc/example-en.html) ). 
